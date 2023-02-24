@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: beige;
+    font-size: x-large;
+    font-family: cursive;
+}
+#choosetext {
+    font-size: large;
+    color: azure;
+    font-family: comic;
+}
+button {
+    font-size: larger;
+    font-family: 'Cinzel', serif;
+    border-radius: 30px
+}
+#funfact {
+    color: red;
+    font-family: sans-serif;
+    font-size: smaller;
+}

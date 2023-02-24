@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+h1 {
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque;
+}
+#warning {
+    font-size: large;
+    color: red;
+    font-family: sans-serif;
+}
+#risk {
+    font-size: small;
+    color: aliceblue;
+    font-family: cursive;
+}
+button {
+    border-radius: 30px;
+}

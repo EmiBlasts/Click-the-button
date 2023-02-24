@@ -1,0 +1,18 @@
+body {
+    background-color: black
+}
+
+#titel {
+    font-size: xx-large;
+    font-family: 'Tilt Prism', cursive;
+    color: rgb(187, 202, 50);
+}
+h3 {
+    color: beige;
+    font-family: cursive;
+}
+button {
+    border-radius: 25%;
+    background-color: beige;
+    font-size: x-large;
+}
